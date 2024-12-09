@@ -1,0 +1,2 @@
+Modify file 1 to add new line and try to commit again  
+Add to New Branch 
